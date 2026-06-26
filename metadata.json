@@ -1,0 +1,6 @@
+{
+  "name": "ZERO",
+  "description": "A premium high-performance Sales Automation and Client Relationship Management application with offline database speed, native follow-up alarms, and WhatsApp automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
